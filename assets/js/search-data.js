@@ -30,15 +30,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/al-folio/people/";
           },
-        },{id: "post-primeirodia",
+        },{id: "post-experiencia-do-primeiro-dia",
         
-          title: "Primeirodia",
+          title: "Experiencia do Primeiro Dia",
         
-        description: "",
+        description: "nós montamos um turbidimetro",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2025/PrimeiroDia/";
+            window.location.href = "/al-folio/blog/2025/primeirodia/";
           
         },
       },{id: "post-a-post-with-plotly-js",
