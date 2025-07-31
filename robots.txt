@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://AliceMakers.github.io/al-folio/sitemap.xml
+Sitemap: https://AliceMakers.github.ioblank/sitemap.xml
