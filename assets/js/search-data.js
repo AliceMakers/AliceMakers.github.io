@@ -38,7 +38,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2025/primeirodia/";
+            window.location.href = "/al-folio/blog/2025/PrimeiroDia/";
           
         },
       },{id: "post-a-post-with-plotly-js",
